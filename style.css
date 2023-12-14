@@ -278,3 +278,8 @@ section:target {
 .image-container:hover .overlay {
     opacity: 0;
 }
+
+.textabout{
+    margin-left: 100px;
+    margin-top: -0px;
+}
